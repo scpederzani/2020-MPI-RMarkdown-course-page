@@ -38,7 +38,7 @@ For a workshop please delete the following block until the next dashed-line
 This is the workshop template. Delete these lines and use it to customize your
 own website. If you are running a self-organized workshop or have not put in a
 workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/forms/self-organised/">this workshop request form</a> to let us know
+this workshop request form to let us know
 about your workshop and our administrator may contact you if we need any extra
 information.
 </div>
@@ -122,9 +122,7 @@ address.
   <strong>Where:</strong>
   {{page.address}}.
   Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
-  or
-  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
+  
 </p>
 {% endif %}
 
@@ -148,7 +146,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed ).
 </p>
 
 {% comment %}
@@ -192,7 +190,7 @@ Display the contact email address set in the configuration file.
   ,
   {% endunless %}
   {% endif %}
-  <a href='mailto:{{email}}'>{{email}}</a>
+  
   {% endfor %}
   {% else %}
   to-be-announced
@@ -208,15 +206,9 @@ CODE OF CONDUCT
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.This document also outlines how to report an incident if needed.
+Everyone who participates in Carpentries activities is required to conform to the This document also outlines how to report an incident if needed.
 </p>
 
-<p class="text-center">
-  <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
-    <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
-  </a>
-</p>
-<hr/>
 
 
 {% comment %}
@@ -233,7 +225,7 @@ e.g., '2015-06-10-esu'.
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this  for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
@@ -244,8 +236,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+
 
 <hr/>
 
@@ -328,7 +319,7 @@ please preview your site before committing, and make sure to run
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+  Configuration Problems and Solutions wiki page</a>.
 </p>
 
 {% if site.carpentry == "swc" %}
