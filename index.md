@@ -2,10 +2,13 @@
 layout: default
 ---
 
-# General Information
+## General Information
+
 something something
 
-# Requirements and Installations
+register by email here: 
+
+## Requirements and Setup
 
 R version
 R Studio
@@ -16,13 +19,20 @@ data sets
 
 course github
 
-# Schedule
+## Schedule
 
-something something
+09:00   Introduction to RMarkdown, part 1
+10:30   Coffee break
+10:45   Introduction to RMarkdown, part 2
+12:15   Lunch break
+13:00   Writing Articles and Reports, part 1
+14:30   Coffee break
+14:45   Writing Article and Reports, part 2
+16:15   Wrap up
 
-# Syllabus
+## Syllabus
 
-## Introduction to RMarkdown
+### Introduction to RMarkdown
 
 * Intro to RMarkdown and the RMarkdown workflow
 * RMarkdown document structure and setting up documents
@@ -31,7 +41,7 @@ something something
 * Export formats
 * Basic formatting using latex and docx functionality
 
-## Writing Articles and Reports
+### Writing Articles and Reports
 
 * parameterized reports
 * intro to writing journal articles in RMarkdown
