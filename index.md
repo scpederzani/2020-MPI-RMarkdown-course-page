@@ -21,14 +21,14 @@ course github
 
 ## Schedule
 
-09:00   Introduction to RMarkdown, part 1
-10:30   Coffee break
-10:45   Introduction to RMarkdown, part 2
-12:15   Lunch break
-13:00   Writing Articles and Reports, part 1
-14:30   Coffee break
-14:45   Writing Article and Reports, part 2
-16:15   Wrap up
+09:00   Introduction to RMarkdown, part 1  
+10:30   Coffee break  
+10:45   Introduction to RMarkdown, part 2  
+12:15   Lunch break  
+13:00   Writing Articles and Reports, part 1  
+14:30   Coffee break  
+14:45   Writing Article and Reports, part 2  
+16:15   Wrap up  
 
 ## Syllabus
 
