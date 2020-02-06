@@ -21,8 +21,6 @@ course github
 
 ## Schedule
 
-Time  |     |
----   | --- |
 09:00 | Introduction to RMarkdown, part 1 |
 10:30 | Coffee break |
 10:45 | Introduction to RMarkdown, part 2 |
