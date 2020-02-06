@@ -17,8 +17,10 @@ You will need to bring your own laptop to the course with several pieces of soft
 You will need:
 
 **R** (at least version XXX)
+
 ---
 **RStudio**
+
 ---
 **R packages**: rmarkdown, knitr, tidyverse. These can be installed via the package management in RStudio or using the `install.packages()` command. After installing knitr, your RStudio gui should show a 'Knit' button at the top:
  
