@@ -21,7 +21,7 @@ course github
 
 ## Schedule
 
-Time  |  Content
+Time  |     |
 ---   | --- |
 09:00 | Introduction to RMarkdown, part 1 |
 10:30 | Coffee break |
@@ -36,7 +36,7 @@ Time  |  Content
 
 ### Introduction to RMarkdown
 
-* Intro to RMarkdown and the RMarkdown workflow: [intro](intro_1.md)
+* Intro to RMarkdown and the RMarkdown workflow ([Reference](intro_1.md))
 * RMarkdown document structure and setting up documents
 * Code chunks, chunk options
 * Figures and tables
