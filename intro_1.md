@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Introduction to RMarkdown
+# Concepts
 
 blabla
 
-# Creating and Rmd file
+# Excersises
 
 something something
