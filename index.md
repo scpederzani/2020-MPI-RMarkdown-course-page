@@ -22,7 +22,7 @@ You will need:
 ---
 **R packages**: rmarkdown, knitr, tidyverse. These can be installed via the package management in RStudio or using the `install.packages()` command. After installing knitr, your RStudio gui should show a 'Knit' button at the top:
  
-[![Location of Knit button in RStudio IDE](Knit_button.PNG)]
+![Location of Knit button in RStudio IDE](Knit_button.PNG)
 
 --- 
 A **LaTeX** installation. This is very important. You will not be able to compile pdf documents if you don't have a working LaTeX engine. You have essentially two options
