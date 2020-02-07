@@ -64,12 +64,12 @@ course github
 ### Writing Articles and Reports
 
 * parameterized reports
-* intro to writing journal articles in RMarkdown
+* workflows for writing journal articles in RMarkdown
 * using layout templates
-* citations and bibliographies
 * captions and cross references
+* citations and bibliographies
 * advanced formatting
-* collaborating with co-authors
+* using tracked changes
 
 
 
