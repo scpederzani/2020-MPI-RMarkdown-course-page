@@ -61,7 +61,7 @@ To be announced. Please check back closer to the course date for data sets that 
 
 ### Introduction to RMarkdown
 
-* Intro to RMarkdown and the RMarkdown workflow ([Reference](intro_1.md))
+* Intro to RMarkdown and the RMarkdown workflow
 * RMarkdown document structure and setting up documents
 * Code chunks, chunk options, inline code
 * Figures and tables
