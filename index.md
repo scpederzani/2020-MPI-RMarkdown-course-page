@@ -7,8 +7,8 @@ Please register by emailing sarah_pederzani@eva.mpg.de (limited number of places
 
 ## What is RMarkdown?
 
-RMarkdown is a file format for generating dynamic documents in R that integrate formatted text with chunks of R code and R code output such as graphs or tables. RMarkdown documents are a tidy and reproducible way to both save and execute R code and produce high quality reports or article documents in a variety of output formats such as pdf, docx or html. You can use RMarkdown to write entire reproducable journal articles, set up automated result reports or even make presentation slides, posters or websites and github pages (like this one!). See more information on RMarkdown here: https://rmarkdown.rstudio.com/lesson-1.html
-
+RMarkdown is a file format for generating dynamic documents in R that integrate formatted text with chunks of R code and R code output such as graphs or tables. RMarkdown documents are a tidy and reproducible way to both save and execute R code and produce high quality reports or article documents in a variety of output formats such as pdf, docx or html. You can use RMarkdown to write entire reproducable journal articles, set up automated result reports or even make presentation slides, posters or websites and github pages (like this one!). See the [RMarkdown website] https://rmarkdown.rstudio.com/lesson-1.html
+for more information. 
 ## The course
 
 This one day course is aimed at users who already have some familiarity with R and will provide a basic introduction to RMarkdown in the first part and will then focus on writing reproducible journal articles in RMarkdown in the afternoon portion. A more detailed schedule and syllabus is posted below. You can selectively attend only portions of the workshop (i.e. only the intro or only the more advanced parts), but please indicate if that will be the case when you register. 
