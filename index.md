@@ -16,15 +16,17 @@ You will need to bring your own laptop to the course with several pieces of soft
 
 You will need:
 
-**R** (at least version XXX)
+**R**: Version 3.6 or higher, an up to date installtion is recommended. You can use the installr package to update your R version without losing all your package installations. 
 
 ---
-**RStudio**
+**RStudio**: You need at least version 1.2 or higher, an up to date RStudio is recommended. This means you will automatically have a working installation of Pandoc, which is needed for RMarkdown to work. 
 
 ---
-**R packages**: rmarkdown, knitr, tidyverse. These can be installed via the package management in RStudio or using the `install.packages()` command. After installing knitr, your RStudio gui should show a 'Knit' button at the top:
+**R packages**: rmarkdown, knitr, tidyverse, redoc. These can mostly be installed via the package management in RStudio or using the `install.packages()` command (except for redoc!). After installing knitr, your RStudio gui should show a 'Knit' button at the top:
  
 ![Location of Knit button in RStudio IDE](Knit_button.PNG)
+
+Install the redoc package (detailed instructions at https://github.com/noamross/redoc) by using `remotes::install_github("noamross/redoc")` (requires that you previously installed the remotes package). 
 
 --- 
 A **LaTeX** installation. This is very important. You will not be able to compile pdf documents if you don't have a working LaTeX engine. You have essentially two options
@@ -35,9 +37,7 @@ A **LaTeX** installation. This is very important. You will not be able to compil
 
 ### Data sets
 
-data sets
-
-course github
+To be announced. Please check back closer to the course date for data sets that will be used during the course. 
 
 ## Schedule
 
@@ -48,7 +48,7 @@ course github
 13:00 | Writing Articles and Reports, part 1 |
 14:30 | Coffee break |
 14:45 | Writing Article and Reports, part 2 |
-16:15 | Wrap up |
+16:30 | Wrap up |
 
 ## Syllabus
 
@@ -56,7 +56,7 @@ course github
 
 * Intro to RMarkdown and the RMarkdown workflow ([Reference](intro_1.md))
 * RMarkdown document structure and setting up documents
-* Code chunks, chunk options
+* Code chunks, chunk options, inline code
 * Figures and tables
 * Export formats
 * Basic formatting using latex and docx functionality
@@ -69,7 +69,7 @@ course github
 * captions and cross references
 * citations and bibliographies
 * advanced formatting
-* using tracked changes
+* using tracked changes with the redoc package
 
 
 
