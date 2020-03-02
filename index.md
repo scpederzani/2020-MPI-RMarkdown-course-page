@@ -24,13 +24,13 @@ You will need to bring your own laptop to the course with several pieces of soft
 
 You will need:
 
-**R**: Version 3.6 or higher, an up to date installtion is recommended. You can use the installr package to update your R version without losing all your package installations. 
+**R**: Version 3.6 or higher. You can use the installr package to update your R version without losing all your package installations. 
 
 ---
-**RStudio**: You need at least version 1.2 or higher, an up to date RStudio is recommended. This means you will automatically have a working installation of Pandoc, which is needed for RMarkdown to work. 
+**RStudio**: You need at least version 1.2. This means you will automatically have a working installation of Pandoc, which is needed for RMarkdown to work. 
 
 ---
-**R packages**: rmarkdown, knitr, tidyverse, redoc. These can mostly be installed via the package management in RStudio or using the `install.packages()` command (except for redoc!). After installing knitr, your RStudio gui should show a 'Knit' button at the top:
+**R packages**: rmarkdown, knitr, tidyverse, redoc. These can mostly be installed via the package management in RStudio or using the `install.packages()` command (except for redoc!). After installing knitr, your RStudio GUI should show a 'Knit' button at the top:
  
 ![Location of Knit button in RStudio IDE](Knit_button.PNG)
 
@@ -39,7 +39,7 @@ Install the redoc package (detailed instructions on the [redoc github repository
 --- 
 A **LaTeX** installation. This is very important. You will not be able to compile pdf documents if you don't have a working LaTeX engine. You have two options:
 
-1) Install a minimal lightweight LaTeX distribution called [TinyTex](https://yihui.org/tinytex/). TinyTex can be installed on Linux, Windows and Mac machines. It is specifically made for use with RMarkdown and is a good option if you only want to compile pdf documents and never look at the underlying LaTeX. This is easy to install but is not as well suited to advanced formatting of pdf documents as well as troubleshooting pdf compiling. So if you expect to write more complex documents like journal articles with pdf output you will fare better with a full LaTex installation. 
+1) Install a minimal lightweight LaTeX distribution called [TinyTex](https://yihui.org/tinytex/). TinyTex can be installed on Linux, Windows and Mac machines. It is specifically made for use with RMarkdown and is a good option if you only want to compile pdf documents and never look at the underlying LaTeX. This is easy to install but is not as well suited to advanced formatting of pdf documents as well as troubleshooting pdf compiling. So if you expect to write more complex documents like journal articles with pdf output you will fare better with a full LaTeX installation. 
 
 2) Install a full fledged LaTeX distribution and an editor. Choose this option if you expect to write more complex documents like journal articles with pdf output. I recommend installing [TeXLive](https://www.tug.org/texlive/), which is available for Linux, Windows and Mac engines, but alternatives like MiKTeX (or any other LaTeX distribution) will work. You will also need to install an editor, for which I recommend [TeXstudio](https://www.texstudio.org/). 
 
